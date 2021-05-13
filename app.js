@@ -22,5 +22,5 @@ switch (palabraIngresada) {
         moduloTareas.deshacer() // Requiero del moduloTareas el metodo deshacer().
         break
     default:
-        break;
-}
+        break; }
+// robert fachero 
